@@ -15,17 +15,17 @@ de habilidade.
 - Ampla Compatibilidade: Funciona em sistemas operacionais legado e
 modernos.
 ## Solução em Utilização
-*[Video 1](https://youtu.be/pEIabTwaKdo)
-*[Video 2](https://youtu.be/8WG6RgGgpQ0)
+* [Video 1](https://youtu.be/pEIabTwaKdo)
+* [Video 2](https://youtu.be/8WG6RgGgpQ0)
 
 ## Ferramentas utilizadas durante o processo de criação
-*[Grafana](https://grafana.com)
-*[Portainer](https://www.portainer.io)
-*[Prometheus](https://prometheus.io)
-*[Node-Exporter](https://github.com/prometheus/node_exporter)
-*[CAdivisor](https://github.com/google/cadvisor)
+* [Grafana](https://grafana.com)
+* [Portainer](https://www.portainer.io)
+* [Prometheus](https://prometheus.io)
+* [Node-Exporter](https://github.com/prometheus/node_exporter)
+* [CAdivisor](https://github.com/google/cadvisor)
 ## Máquinas Virtuais
 As máquinas virtuais utilizadas durante os vídeos foram:
-*[CentOS](https://www.centos.org)
-*[Windows XP Profissional](https://www.baixesoft.com/download/windows-xpprofessional-iso)
-*[Windows 10](https://www.microsoft.com/pt-br/software-download/windows10)
+* [CentOS](https://www.centos.org)
+* [Windows XP Profissional](https://www.baixesoft.com/download/windows-xpprofessional-iso)
+* [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10)
