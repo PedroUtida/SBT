@@ -15,8 +15,8 @@ de habilidade.
 - Ampla Compatibilidade: Funciona em sistemas operacionais legado e
 modernos.
 ## Solução em Utilização
-[Video 1](https://youtu.be/pEIabTwaKdo)
-[Video 2](https://youtu.be/8WG6RgGgpQ0)
+*[Video 1](https://youtu.be/pEIabTwaKdo)
+*[Video 2](https://youtu.be/8WG6RgGgpQ0)
 
 ## Ferramentas utilizadas durante o processo de criação
 *[Grafana](https://grafana.com)
