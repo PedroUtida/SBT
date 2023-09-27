@@ -19,7 +19,7 @@ modernos.
 [Video 2](https://youtu.be/8WG6RgGgpQ0)
 
 ## Ferramentas utilizadas durante o processo de criação
-[Grafana](https://grafana.com)
+[Grafana](https://grafana.com)\n
 [Portainer](https://www.portainer.io)
 [Prometheus](https://prometheus.io)
 [Node-Exporter](https://github.com/prometheus/node_exporter)
